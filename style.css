@@ -1,0 +1,24 @@
+	bod
+		front-size:15px;
+		front-family: Qrial, Helvetica, sans-serif;
+		margin: 0px;
+		padding: 0px;
+		width: 100px;
+		background-color:rgb(228,227,226);
+	}
+	.contenu{
+		width: 100%
+	}
+	.class {
+		width: 100%;
+		background-color: rgb(14,12,12);
+		display:flex;
+		justify-content: space-around;
+		place-items: center;
+		color: white;
+		padding:30px0;
+	}
+	
+	
+	
+		
